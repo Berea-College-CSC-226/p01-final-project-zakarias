@@ -5,9 +5,9 @@
 ❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
   they accompany. (This means that your final README should have no ❗️in it!)
 
-❗️**Author(s)**: Your name(s) here
+❗️**Author(s)**: Zak Shendera 
 
-❗️**Google Doc Link**: Your link here
+❗️**Google Doc Link**: https://docs.google.com/document/d/1kEV2M34pWni_5G1q-r7y99yKLXtFNCYJWnvJKxsLCME/edit?usp=sharing
 
 ---
 
@@ -20,11 +20,16 @@ helped you, AI tools you've used, and any other resources that are not solely yo
 
 ## Milestone 1: Setup, Planning, Design
 
-❗️**Title**: `What is the title of your project? Be creative! Replace this block of text.`
+❗️**Title**: `What is the title of your project? Be creative! 
+My tile of the project was, "Snake Game with turtle Graphic"
+.`
 
-❗**Purpose**: `In a single sentence, describe WHAT your project will do. Replace this block of text.`
+❗**Purpose**: `In a single sentence, describe WHAT your project will do.
+ Decide what the game should do, like making the snake move, eat food, and when it should end. `
 
-❗️**Source Assignment(s)**: `List which original assignments you will base your project on? Replace this block of text.`
+❗️**Source Assignment(s)**: `List which original assignments you will base your project on? 
+MY original assigment was t03, boustrophedon.
+`
 
 ❗️**CRC Card(s)**:
   - Create a CRC card for each class that your project will implement.
@@ -43,7 +48,7 @@ branch) as they work. When you need to bring each others branches together, do s
 into your own, following the process we've discussed in previous assignments: 
 
 ```
-    Branch 1 name: _____________
+    Branch 1 name: Shenderaz
     Branch 2 name: _____________
 ```
 ---
