@@ -61,7 +61,9 @@ Reflect on what you’ve done so far. How’s it going? Are you feeling behind/a
 What has surprised you so far? Describe your general feelings. Be honest with yourself; this section is for you, not me.
 
 ```
-    **Replace this text with your reflection
+    ** Its going Okay, I thought i was going to be faster since its just snake game but theirs a lot of turtle 
+    stuff to add. It took me a while to creat a window and head than it tought it was going to take. 
+    Overall, I'm doing well, I did the most important part today, windown and head. I will directions and movements next time. 
 ```
 
 ---
