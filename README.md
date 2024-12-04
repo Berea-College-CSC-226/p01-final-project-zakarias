@@ -79,7 +79,10 @@ Indicate what percentage of the project you have left to complete and how confid
   before the deadline.
 
 ```
-    **Replace this text with your reflection
+    *
+    Feeling cofident, even tho I still have to make my snake move. I got the segment in and the arrow keys working
+    I still have a lot of work to make sure the scoreboard is more clear and check for collision with a body segment.
+    *
 ```
 
 ---
