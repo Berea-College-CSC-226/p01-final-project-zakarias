@@ -6,14 +6,14 @@ class SnakeGame:
      def __init__(self):
         wn = turtle.Screen()  #Screen setup
         wn.title("The Snake Game")
-        wn.bgcolor("green")
+        wn.bgcolor("Green")
         wn.setup(width=900, height= 500)
 
         #Snake head
         head = turtle.Turtle()
         head.speed(0)
         head.shape("circle")
-        head.color("blue")
+        head.color("Black")
         head.penup()
         head.goto(0,0)
         head.direction = "stop"
@@ -47,12 +47,15 @@ class SnakeGame:
         def go_down():
             if head.direction != "Up":
                 head.direction = "Down"
+
         def go_left():
             if head.direction != "Right":
-                head.direction = "Lef"
+                head.direction = "Left"
+
         def go_right():
             if head.direction != "Left":
                 head.direction = "Right"
+
         def move():
             if head.direction == "Up":
                 y = head.ycor()
@@ -142,6 +145,7 @@ class SnakeGame:
 
         wn.mainloop()
         # Main game loop
+
 
 
 

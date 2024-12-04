@@ -1,10 +1,7 @@
 # ❗CSC226 Final Project
 
 ## Instructions
-
-❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
-  they accompany. (This means that your final README should have no ❗️in it!)
-
+My SNAKE GAME:
 ❗️**Author(s)**: Zak Shendera 
 
 ❗️**Google Doc Link**: https://docs.google.com/document/d/1kEV2M34pWni_5G1q-r7y99yKLXtFNCYJWnvJKxsLCME/edit?usp=sharing
@@ -12,9 +9,9 @@
 ---
 
 ## References 
-Throughout this project, you have likely used outside resources. Reference all ideas which are not your own, 
-and describe how you integrated the ideas or code into your program. This includes online sources, people who have 
-helped you, AI tools you've used, and any other resources that are not solely your own contribution. Update as you go.
+
+
+
 
 ---
 
@@ -49,7 +46,7 @@ into your own, following the process we've discussed in previous assignments:
 
 ```
     Branch 1 name: Shenderaz
-    Branch 2 name: _____________
+
 ```
 ---
 
