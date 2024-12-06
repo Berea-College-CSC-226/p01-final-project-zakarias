@@ -9,10 +9,12 @@ My SNAKE GAME:
 ---
 
 ## References 
-#This website was helpful for all the colors and screen set
+Colors and screen set:
 https://www.geeksforgeeks.org/turtle-screen-bgcolor-function-in-python/
 Got some Functions idea on:
 Chatgp and https://pythonspot.com/snake-with-pygame/
+Movements:
+https://stackoverflow.com/questions/62010434/how-do-i-get-the-snake-to-grow-and-chain-the-movement-of-the-snakes-body
 
 
 
