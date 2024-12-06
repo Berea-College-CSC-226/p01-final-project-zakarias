@@ -9,7 +9,10 @@ My SNAKE GAME:
 ---
 
 ## References 
-
+#This website was helpful for all the colors and screen set
+https://www.geeksforgeeks.org/turtle-screen-bgcolor-function-in-python/
+Got some Functions idea on:
+Chatgp and https://pythonspot.com/snake-with-pygame/
 
 
 

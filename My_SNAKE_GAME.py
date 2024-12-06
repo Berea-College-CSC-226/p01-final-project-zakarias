@@ -6,7 +6,7 @@ class SnakeGame:
      def __init__(self):
         wn = turtle.Screen()  #Screen setup
         wn.title("The Snake Game")
-        wn.bgcolor("Green")
+        wn.bgcolor("#003200")
         wn.setup(width=900, height= 500)
 
         #Snake head
