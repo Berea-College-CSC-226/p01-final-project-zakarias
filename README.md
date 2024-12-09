@@ -95,16 +95,36 @@ Indicate what percentage of the project you have left to complete and how confid
 In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button 
 in PyCharm. 
 
+Once you run the program in PyCharm, a window titled "Snake Game" will appear, displaying a green background where the game takes place.
+Use the arrow keys on your keyboard to control the snake: Up to move up, Down to move down, Left to move left, and Right to move right. 
+The objective is to guide the snake to eat the brown food circles, which will appear at random positions. Each time the snake eats a piece of food, it grows longer, 
+and your score increases by 5 points. Avoid colliding with the green borders or the snake's own body, as this will reset the game, clear the snake's body, and reset your score to zero, 
+But your highest score will be saved as the "High Score." The current score and high score are displayed at the top of the screen throughout the game.
+
 ### ❗Errors and Constraints
 Every program has bugs or features that had to be scrapped for time. These bugs should be tracked in the issue queue. 
 You should already have a few items in here from the prior weeks. Create a new issue for any undocumented errors and 
 deficiencies that remain in your code. Bugs found that aren't acknowledged in the queue will be penalized.
 
+The snake moves at a fixed speed, which might feel too slow for some players.
+-Players can change the speed depending how faster the player want to go.
+
+The screen board might be hard to see for some people
+-The player can change to where they can be able to see. 
+
 ### ❗Reflection
 In three to four well-written paragraphs, address the following (at a minimum):
 - Why did you select the project that you did?
+I didn't know if you can create games in python, actual games, apart from the nim game and the first thing that i thought
+about was to create a fun and easy game that my siblings can play at home.
 - How closely did your final project reflect your initial design?
+Pretty close
 - What did you learn from this process?
+The top down design is very import, I was lost most of the time, when i try to do it without go based on my design. 
+
 - What was the hardest part of the final project?
+The hardest part of this game was to make the snake move and not collided with each other.
+
 - What would you do differently next time, knowing what you know now?
+I will make my design more clear before i jump to the coding section.
 - (For partners) How well did you work with your partner? What made it go well? What made it challenging?
