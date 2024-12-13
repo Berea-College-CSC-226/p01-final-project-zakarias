@@ -23,6 +23,7 @@ class TestSnakeGame(unittest.TestCase):
         self.game.check_food_collision()
         self.assertEqual(self.game.score, 5)  # Score should increase by 5
 
+
 if __name__ == "__main__":
     unittest.main()
 

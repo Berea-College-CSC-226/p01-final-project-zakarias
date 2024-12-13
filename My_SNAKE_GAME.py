@@ -28,7 +28,6 @@ class SnakeGame:
 
         # Snake body segments
         self.segments = []
-
         # Score
         self.score = 0
         self.high_score = 0

@@ -23,7 +23,7 @@ https://stackoverflow.com/questions/62010434/how-do-i-get-the-snake-to-grow-and-
 ## Milestone 1: Setup, Planning, Design
 
 ❗️**Title**: `What is the title of your project? Be creative! 
-My tile of the project was, "Snake Game with turtle Graphic"
+My tile of the project was, "Snake Game with turtle Graphic".
 .`
 
 ❗**Purpose**: `In a single sentence, describe WHAT your project will do.
