@@ -70,7 +70,6 @@ class SnakeGame:
             self.head.setx(self.head.xcor() - 20)
         elif self.head.direction == "right":
             self.head.setx(self.head.xcor() + 20)
-
     def reset_game(self):
         time.sleep(1)
         self.head.goto(0, 0)
@@ -89,7 +88,6 @@ class SnakeGame:
         for segment in self.segments:
             if segment.distance(self.head) < 20:
                 self.reset_game()
-
     def check_food_collision(self):
         if self.head.distance(self.food) < 20:
             x = random.randint(-290, 290)
